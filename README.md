@@ -34,7 +34,7 @@ Incluye:
 ## 🌐 Vista en GitHub Pages
 Puedes ver el portafolio en la siguiente URL:
 ```
-https://TU-USUARIO.github.io/portfolio
+https://DaliaLorena.github.io/script_automation
 ```
 
 
