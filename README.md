@@ -36,7 +36,6 @@ Puedes ver el portafolio en la siguiente URL:
 ```
 https://TU-USUARIO.github.io/portfolio
 ```
-*(Reemplaza TU-USUARIO por tu nombre de usuario en GitHub.)*
 
 
 ## 🛠 Cómo Ejecutar el Proyecto Localmente
