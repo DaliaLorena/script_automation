@@ -41,7 +41,7 @@ https://TU-USUARIO.github.io/portfolio
 ## 🛠 Cómo Ejecutar el Proyecto Localmente
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/DaliaLorena/portfolio.git
+git clone https://github.com/DaliaLorena/script_automation.git
 ```
 2. Entra en el directorio:
 ```bash
