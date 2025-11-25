@@ -57,5 +57,3 @@ Puedes encontrar mis datos en la página **contact.html**, incluyendo email, Git
 
 ---
 
-
-Si quieres mejorar o extender este portafolio, ¡estoy abierto a recomendaciones y nuevas colaboraciones!
